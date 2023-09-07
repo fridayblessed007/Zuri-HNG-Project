@@ -103,3 +103,11 @@ body {
       background-color: rgb(159, 159, 159);
       transition: 150ms ease-in-out;
     }
+
+    .custom-link{
+      color: red;
+      
+    }
+.custom-link:hover{
+  color: aqua;
+}
