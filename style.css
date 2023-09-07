@@ -86,3 +86,20 @@ body {
         display: flex;
         margin-top: 8px;
     }
+
+    button {
+      background-color: rgb(212, 212, 212);
+      color: rgb(60, 60, 60);
+      padding: 0.5rem;
+      border-radius: 5px;
+      border: 0;
+      transition: 150ms ease-in-out;
+      margin-top: 50px;
+      justify-content: center;
+      margin: 50px;
+    }
+    
+    button:hover {
+      background-color: rgb(159, 159, 159);
+      transition: 150ms ease-in-out;
+    }
