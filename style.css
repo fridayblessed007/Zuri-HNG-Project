@@ -22,11 +22,11 @@
     text-decoration: none;
     font-size: large;
     margin:auto;
-    color:hotpink;
+    color:blue;
   }
   
   .github_link:hover{
-    color: peru;
+    color: red;
   }
 
   body{
