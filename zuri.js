@@ -17,5 +17,6 @@ const milliseconds = now.getUTCMilliseconds();
 
             let time=(`${hours}:${minutes}:${seconds}.${milliseconds}`);
 
+            document.getElementById('timenow').innerHTML=time;
             
 
