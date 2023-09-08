@@ -13,15 +13,18 @@
 </head>
 <body>
     <header>
-        <h1>FRIDAY BLESSED</h1>
+        <h1 data-testid="slackUserName" class="user-name">FRIDAY BLESSED</h1>
         <img src="slack-profile-picture.jpg" alt="Friday Blessed" data-testid="slackDisplayImage"> 
     </header>
     <main>
-        <section>
-            <h2>
-                Current Day of the week
-                <p class="elements"><span data-testid="currentDayOfTheWeek"></span> Thursday</p>
-            </h2>
+        
+        <section class="info">
+            <h1 data-testid="slackUserName" class="user-name">Friday Blessed</h1>
+            <div class="track" data-testid="myTrack">Frontend</div>
+            <div class="date-time">
+                <span data-testid="currentDayOfTheWeek" id="day-of-week"></span>
+                <span data-testid="currentUTCTime" id="time"></span>
+            </div>
         </section>
         <section>
            <h2> Current UTC Time</h2>

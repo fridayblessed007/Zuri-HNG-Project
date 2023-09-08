@@ -97,6 +97,7 @@ body {
       margin-top: 50px;
       justify-content: center;
       margin: 50px;
+      cursor: pointer;
     }
     
     button:hover {
@@ -105,9 +106,10 @@ body {
     }
 
     .custom-link{
-      color: red;
+      color:white;
+      cursor: pointer;
       
     }
 .custom-link:hover{
-  color: aqua;
+  color:green;
 }
