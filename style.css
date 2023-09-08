@@ -1,5 +1,5 @@
 .background{
-    background-color:rgba(156, 156, 136, 0.932);
+    background-color:whitesmoke;
   }
   .wrap_container{
     background-color: #000;
@@ -21,11 +21,17 @@
   .github_link{
     text-decoration: none;
     font-size: large;
-    margin:10px;
+    margin:auto;
     color:hotpink;
   }
   
   .github_link:hover{
     color: peru;
   }
+
+  body{
+    font-family: 'Inter', sans-serif;
+  }
+
+
   
