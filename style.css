@@ -1,5 +1,5 @@
 .background{
-    background-color:whitesmoke;
+    background-color:rgba(158, 158, 32, );
   }
   .wrap_container{
     background-color: #000;
@@ -30,7 +30,7 @@
   }
 
   body{
-    font-family: 'Inter', sans-serif;
+     font-family: 'Inter', sans-serif;
   }
 
 
