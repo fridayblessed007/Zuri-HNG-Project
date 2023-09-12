@@ -1,3 +1,3 @@
-# Zuri-HNG-Project
+# Zuri Stage One task
 
-Zuri Hng stage-one-task
+This is just a mini Zuri HNG project that shows real time data..
