@@ -11,7 +11,7 @@ Create and Deploy a Personal Website with HTML and CSS Featuring Real-Time Data 
  * The image's alt attribute should be your Slack username.
  * Attribute: data-testid="slackDisplayImage"
 ### Current Day of the Week:
- * Indicate the current day of the week (e.g., Monday, Tuesday).
+ * Indicate the current day of the week (e.g., Monday, Tuesday, Wednesday, Thursday, Friday, Saturday).
  * Attribute: data-testid="currentDayOfTheWeek"
 ### Current UTC Time:
  * Display the current UTC time in milliseconds.
