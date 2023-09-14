@@ -3,23 +3,23 @@ Create and Deploy a Personal Website with HTML and CSS Featuring Real-Time Data 
 
 # Requirements:
 
-#### Slack Name:
+### Slack Name:
  * Display your Slack name prominently.
  * Attribute: data-testid="slackUserName"
-#### Slack Display Picture:
+### Slack Display Picture:
  * Showcase your Slack profile picture.
  * The image's alt attribute should be your Slack username.
  * Attribute: data-testid="slackDisplayImage"
-#### Current Day of the Week:
+### Current Day of the Week:
  * Indicate the current day of the week (e.g., Monday, Tuesday).
  * Attribute: data-testid="currentDayOfTheWeek"
-#### Current UTC Time:
+### Current UTC Time:
  * Display the current UTC time in milliseconds.
  * Attribute: data-testid="currentUTCTime"
-#### Track:
+### Track:
 *  Mention your track (e.g Frontend).
  * Attribute: data-testid="myTrack"
-#### GitHub URL:
+### GitHub URL:
  * Provide a clickable link to your GitHub repository where the source code for this task resides.
  * Attribute: data-testid=“githubURL”
 
